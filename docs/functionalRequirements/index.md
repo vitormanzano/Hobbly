@@ -15,5 +15,11 @@
 | ID | Name | Priority | Status |
 |---|---|---|---|
 | [FR-06](./hobby/FR06-ManageHobbies.md) | Manage Hobbies | High | Draft |
+| [FR-07](./hobby/FR07-SearchHobby.md) | Search Hobby | High | Draft |
 
+## Feed
 
+| ID | Name | Priority | Status |
+|---|---|---|---|
+| [FR-08](./feed/FR08-PublicFeed.md) | View Public Feed | High | Draft |
+| [FR-09](./feed/FR09-PersonalizedFeed.md) | View Personalized Feed | High | Draft |
