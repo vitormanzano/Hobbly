@@ -9,6 +9,7 @@ Visitor (unauthenticated user)
 ## Pre-conditions
 - The visitor is not authenticated.
 - The provided email is not already registered.
+- The provided username is not already taken.
 
 ## Main flow
 1. Visitor navigates to the sign-up page.
@@ -23,7 +24,10 @@ Visitor (unauthenticated user)
 **AF-01 — Email already registered**
 At step 3, if the provided email is already associated with an existing account, the system displays an error message indicating the email is unavailable. The form remains open for correction.
 
-**AF-02 — Invalid data**
+**AF-02 — Username already taken**
+At step 3, if the provided username is already associated with an existing account, the system displays an error message indicating the username is unavailable. The form remains open for correction.
+
+**AF-03 — Invalid data**
 At step 3, if any field fails validation (e.g., malformed email, password shorter than 4 characters, blank required field), the system highlights the offending fields and displays descriptive error messages. The account is not created.
 
 ## Post-conditions
