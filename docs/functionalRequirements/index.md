@@ -30,3 +30,5 @@
 |---|---|---|---|
 | [FR-10](./post/FR10-CreatePost.md) | Create Post | High | Draft |
 | [FR-11](./post/FR11-UpdatePost.md) | Update Post | Medium | Draft |
+| [FR-12](./post/FR12-DeletePost.md) | Delete Post | Medium | Draft |
+| [FR-13](./post/FR13-ViewPost.md) | View Post | High | Draft |
