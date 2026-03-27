@@ -23,3 +23,9 @@
 |---|---|---|---|
 | [FR-08](./feed/FR08-PublicFeed.md) | View Public Feed | High | Draft |
 | [FR-09](./feed/FR09-PersonalizedFeed.md) | View Personalized Feed | High | Draft |
+
+## Posts
+
+| ID | Name | Priority | Status |
+|---|---|---|---|
+| [FR-10](./post/FR10-CreatePost.md) | Create Post | High | Draft |
