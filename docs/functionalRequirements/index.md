@@ -29,3 +29,4 @@
 | ID | Name | Priority | Status |
 |---|---|---|---|
 | [FR-10](./post/FR10-CreatePost.md) | Create Post | High | Draft |
+| [FR-11](./post/FR11-UpdatePost.md) | Update Post | Medium | Draft |
