@@ -4,7 +4,7 @@
 A visitor should be able to view the most upvoted posts across all hobbies on the platform, without needing to log in.
 
 ## Actors
-Visitor
+Visitor (unauthenticated user)
 
 ## Pre-conditions
 - The system has at least one post registered.
