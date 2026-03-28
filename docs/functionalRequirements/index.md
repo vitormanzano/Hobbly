@@ -46,4 +46,5 @@
 | ID | Name | Priority | Status |
 |---|---|---|---|
 | [FR-17](./voting/FR17-VotePost.md) | Vote on Post | High | Draft |
+| [FR-18](./voting/FR18-VoteComment.md) | Vote on Comment | High | Draft |
 
