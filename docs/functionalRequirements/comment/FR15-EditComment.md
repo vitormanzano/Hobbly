@@ -1,7 +1,7 @@
-## FR-15 — Update Comment
+## FR-15 — Edit Comment
 
 ## Description
-An authenticated user should be able to update the content of one of their own comments.
+An authenticated user should be able to edit the content of one of their own comments.
 
 ## Actors
 Authenticated user

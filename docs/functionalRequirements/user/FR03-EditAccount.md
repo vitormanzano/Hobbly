@@ -1,7 +1,7 @@
-# FR-03 — Update Account
+# FR-03 — Edit Account
 
 ## Description
-An authenticated user should be able to update their account information, including username, description, email, and password. All fields are optional — only the provided fields will be updated.
+An authenticated user should be able to edit their account information, including username, description, email, and password. All fields are optional — only the provided fields will be updated.
 
 ## Actors
 Authenticated user

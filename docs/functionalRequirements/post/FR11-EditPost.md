@@ -1,7 +1,7 @@
-## FR-11 — Update Post
+## FR-11 — Edit Post
 
 ## Description
-An authenticated user can update a post within one hour of its creation. After that, the post can no longer be edited.
+An authenticated user can edit a post within one hour of its creation. After that, the post can no longer be edited.
 
 ## Actors
 Authenticated user
