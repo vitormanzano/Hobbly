@@ -32,3 +32,10 @@
 | [FR-11](./post/FR11-UpdatePost.md) | Update Post | Medium | Draft |
 | [FR-12](./post/FR12-DeletePost.md) | Delete Post | Medium | Draft |
 | [FR-13](./post/FR13-ViewPost.md) | View Post | High | Draft |
+
+## Comments
+
+| ID | Name | Priority | Status |
+|---|---|---|---|
+| [FR-14](./comment/FR14-CreateComment.md) | Create Comment | High | Draft |
+| [FR-15](./comment/FR15-UpdateComment.md) | Update Comment | Medium | Draft |
