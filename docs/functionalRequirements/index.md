@@ -39,3 +39,5 @@
 |---|---|---|---|
 | [FR-14](./comment/FR14-CreateComment.md) | Create Comment | High | Draft |
 | [FR-15](./comment/FR15-EditComment.md) | Edit Comment | Medium | Draft |
+| [FR-16](./comment/FR16-DeleteComment.md) | Delete Comment | High | Draft |
+
