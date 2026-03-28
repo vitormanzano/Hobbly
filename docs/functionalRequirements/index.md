@@ -9,6 +9,7 @@
 | [FR-03](./user/FR03-EditAccount.md) | Edit Account | Medium | Draft |
 | [FR-04](./user/FR04-DeleteAccount.md) | Delete Account | Medium | Draft |
 | [FR-05](./user/FR05-Logout.md) | Logout | High | Draft |
+| [FR-19](./user/FR19-ViewProfile.md) | View Profile | Medium | Draft |
 
 ## Hobbies
 
