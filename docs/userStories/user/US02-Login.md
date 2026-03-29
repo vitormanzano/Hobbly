@@ -1,5 +1,8 @@
 ## US-02 — Login
 
+## Priority: High
+
+## User Story
 As a visitor, I want to log in to my account, so that I can access the platform and interact with the community.
 
 ### Acceptance Criteria
