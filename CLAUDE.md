@@ -71,6 +71,9 @@ The domain is organized into 5 bounded contexts (not yet fully documented):
 ```markdown
 ## US-XX — Name
 
+## Priority: [High/Medium/Low]
+
+## User Story
 As a [actor], I want to [action], so that [benefit].
 
 ### Acceptance Criteria
