@@ -1,7 +1,7 @@
 # FR-04 — Delete Account
 
 ## Description
-An authenticated user should be able to permanently delete their account and all associated data.
+An authenticated user should be able to permanently delete their account. Posts and comments created by the user are preserved but attributed to "Deleted User".
 
 ## Actors
 Authenticated user
@@ -15,7 +15,7 @@ Authenticated user
 3. System displays a confirmation dialog warning that the action is irreversible.
 4. User confirms the deletion by providing their current password.
 5. System validates the provided password.
-6. System permanently deletes the account and all associated data.
+6. System permanently deletes the account. All posts and comments previously associated with the account are reassigned to "Deleted User".
 7. Session is terminated.
 8. User is redirected to the home page.
 
@@ -28,7 +28,7 @@ At step 3, if the user dismisses the confirmation dialog, the process is aborted
 At step 5, if the provided password does not match the current account password, the system displays an error message and the account is not deleted.
 
 ## Post-conditions
-- Account and all associated data are permanently deleted.
+- Account is permanently deleted.
 - Session is terminated.
 - User is redirected to the home page.
 
@@ -37,7 +37,8 @@ FR-01 — Create Account
 FR-02 — Login
 
 ## Side effects
-- All posts, votes, and interactions associated with the account are permanently removed.
+- All posts and comments previously associated with the account are reassigned to "Deleted User".
+- All votes cast by the deleted account are permanently removed.
 
 ## Priority
 Medium
