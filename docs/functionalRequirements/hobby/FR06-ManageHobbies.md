@@ -34,7 +34,7 @@ FR-01 — Create Account
 FR-02 — Login
 
 ## Side effects
-- If a new hobby is suggested (AF-01), it enters a pending state and becomes available only after admin approval.
+- If a new hobby is suggested (AF-01), it enters a pending state and becomes available only after admin approval (FR-23).
 
 ## Priority
 High
