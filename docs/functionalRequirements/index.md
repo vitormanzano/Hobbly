@@ -18,6 +18,8 @@
 |---|---|---|---|
 | [FR-06](./hobby/FR06-ManageHobbies.md) | Manage Hobbies | High | Draft |
 | [FR-07](./hobby/FR07-SearchHobby.md) | Search Hobby | High | Draft |
+| [FR-23](./hobby/FR07-ReviewHobbySuggestion.md) | Review Hobby Suggestion | High | Draft |
+
 
 ## Feed
 
