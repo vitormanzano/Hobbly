@@ -11,6 +11,7 @@
 | [FR-05](./user/FR05-Logout.md) | Logout | High | Draft |
 | [FR-19](./user/FR19-ViewProfile.md) | View Profile | Medium | Draft |
 | [FR-21](./user/FR21-ViewOwnProfile.md) | View Own Profile | Medium | Draft |
+| [FR-24](./user/FR24-ForgotPassowrd.md) | Forgot Password | Medium | Draft |
 
 ## Hobbies
 
