@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/backend/">
+    <Project Path="src/backend/Hobbly.Identity.Tests/Hobbly.Identity.Tests.csproj" />
+    <Project Path="src/backend/Hobbly.Identity/Hobbly.Identity.csproj" />
+  </Folder>
+  <Project Path="Hobbly.Core/Hobbly.Core.csproj" />
+  <Project Path="Hobbly.Identity.Tests/Hobbly.Identity.Tests.csproj" />
+  <Project Path="Hobbly.Identity/Hobbly.Identity.csproj" />
+</Solution>
